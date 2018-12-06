@@ -1,0 +1,85 @@
+header h1
+{
+
+        margin-top: 0;
+        color: #ff953f;
+         float:left;
+         width: 25%;
+  
+}
+
+p
+{
+font-weight: bold;
+
+}
+
+body
+{
+   font-family:  'Black And White Picture', sans-serif;
+}
+header{
+    display:float;
+    background: #36424a;
+    padding: 10px;
+
+}
+
+ul,ol
+{
+    list-style: none;
+    
+    
+}
+
+nav li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+nav li{
+    display: inline-block;
+    margin-right: 15px;
+    padding: 3px
+   
+
+}
+section{
+    display: float;
+}
+div{
+    display:inline-block;
+    padding: 10px;
+
+display: float;
+}
+.a{
+    float: left;
+    width: 30%;
+   
+
+}
+.b{
+    width: 20%;
+
+}
+.c{
+    width: 30%;
+}
+.container{
+    background-color:white;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: float;
+
+}
+footer p{
+    color:white;
+    text-align:center;
+
+}
+footer{
+   background:#36424a;
+   padding: 25px;
+}
